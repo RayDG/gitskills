@@ -5,3 +5,4 @@ first modify
 Test diff
 Test rebase
 Test fetch
+Test rebase
