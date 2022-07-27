@@ -6,3 +6,4 @@ Test diff
 Test rebase
 Test fetch
 Test rebase
+Test rebase dev
